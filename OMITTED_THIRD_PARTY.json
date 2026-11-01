@@ -1,0 +1,12 @@
+[
+  {
+    "path": "materials/previous_20261022/reproducibility/direct_comparison/prior_art/balancedHeatFluxWhenTemperatureIndependentCp.tar.gz",
+    "sha256": "29cf364bac5c35ff330e6b2d09eae8ef25b1879b412a73f1a2807b7192291b81",
+    "reason": "Third-party issue attachment; redistribution license not established. Public source URL and retrieval metadata retained; original private evidence unchanged."
+  },
+  {
+    "path": "materials/previous_20261022/reproducibility/direct_comparison/prior_art/imbalancedHeatFluxWhenTemperatureDependentCp.tar.gz",
+    "sha256": "b22501b5c414eb7fff0711ceb2a643a9abd5d9e05a992555dbff1c000bfdfd2a",
+    "reason": "Third-party issue attachment; redistribution license not established. Public source URL and retrieval metadata retained; original private evidence unchanged."
+  }
+]
